@@ -21,7 +21,7 @@
   * You can change the accent colour by using the Colour Selector tool: https://takosthings.github.io/Fluent-Discord/color.html
 **/
 :root {
-  /* DefaultBlue */
+  /* TurfGreen */
   --fluent-accent-hue-sat: 151, 100%;
   --fluent-accent-lightness: 40%;
   --fluent-text-on-accent-color: 0, 0, 0;
